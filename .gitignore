@@ -2,10 +2,6 @@
 # Created by https://www.gitignore.io/api/java,maven,cmake,intellij+all
 # Edit at https://www.gitignore.io/?templates=java,maven,cmake,intellij+all
 
-### Graphalytics ###
-
-graphalytics-*
-
 ### CMake ###
 CMakeLists.txt.user
 CMakeCache.txt
